@@ -1,0 +1,22 @@
+[19-Feb-2016 11:05:31 UTC] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[19-Feb-2016 11:05:31 UTC] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[19-Feb-2016 11:05:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-db.php on line 67
+[19-Feb-2016 11:05:51 UTC] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[19-Feb-2016 11:05:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-db.php on line 67
+[19-Feb-2016 11:05:51 UTC] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[19-Feb-2016 11:05:54 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-db.php on line 67
+[19-Feb-2016 11:05:54 UTC] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[19-Feb-2016 11:05:54 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-db.php on line 67
+[19-Feb-2016 11:05:54 UTC] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[19-Feb-2016 11:07:35 UTC] PHP Question2Answer MySQL query error 1146: Table 'odatdemo.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[19-Feb-2016 11:07:36 UTC] PHP Question2Answer MySQL query error 1146: Table 'odatdemo.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[01-Mar-2016 12:37:48 UTC] PHP Notice:  Use of undefined constant QA_BLOBS_DIRECTORY - assumed 'QA_BLOBS_DIRECTORY' in /home/vincentsecu4/public_html/odatdemo/qa-plugin/Infinity-Plugin/it-event.php on line 34
+[01-Mar-2016 12:38:48 UTC] PHP Notice:  Undefined index: form_q_edit in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 80
+[01-Mar-2016 12:38:48 UTC] PHP Notice:  Undefined index: form_q_edit in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 83
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 83
+[01-Mar-2016 12:38:48 UTC] PHP Notice:  Undefined index: form_q_edit in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 85
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 85
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 86
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 130
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 132
+[01-Mar-2016 12:38:48 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/vincentsecu4/public_html/odatdemo/qa-include/qa-base.php(595) : eval()'d code on line 133
